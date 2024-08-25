@@ -25,3 +25,7 @@ class Solution:
         
         # Return the list of boolean values
         return is_greatest
+
+# n
+# pratek ko lagi, result = candies[i] + extraCandies
+# if result >= max(candies): then return true or false
